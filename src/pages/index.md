@@ -21,7 +21,7 @@ sections:
     background_color: none
     background_image: >-
       images/Beige and Pink Watercolour Thanksgiving Desktop Wallpaper Quotes
-      (1).png
+      (2).png
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 77

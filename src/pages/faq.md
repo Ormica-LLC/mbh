@@ -21,6 +21,7 @@ sections:
           and any other social media platform you wish to maintain. This
           includes both posting relevant and interesting content, and replying
           to questions and comments from your audience.
+        title: 'Q:  Do you pay fair prices for properties?'
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work

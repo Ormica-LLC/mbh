@@ -69,11 +69,14 @@ sections:
           to buy the house with our own cash, repair the house, and market it
           ourselves to find a buyer (which is the hard part in this market).
         title: 'Q:  How are you different from a real estate agent?'
-      - content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+      - content: >
+          A: There is absolutely zero obligation for you. Once you tell us a bit
+          about your property, we’ll take a look at things, maybe set up a call
+          with you to find out a bit more, and make you an all-cash offer that’s
+          fair for you and fair for us. From there, it’s 100% your decision on
+          whether or not you’d like to sell your house to us… and we won’t
+          hassle you, won’t harass you… it’s 100% your decision and we’ll let
+          you decide what’s right for you.
         title: 'Q:  Is there any obligation when I submit my info?'
     grid_cols: two
     grid_gap_horiz: medium

@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       I buy houses in any condition, it doesn't matter if your house is newer,
       or if it's over 100 years old and may need $100,000 in repairs. There are
-      no obligation
+      no obligation, commission, or fees
     actions:
       - label: Contact Me
         url: /contact

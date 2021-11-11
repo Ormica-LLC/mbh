@@ -11,7 +11,7 @@ sections:
       - label: Call Now 305-300-0496
         url: /contact
         style: primary
-    image: images/IMG-20210817-WA0012.jpg
+    image: images/2.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty

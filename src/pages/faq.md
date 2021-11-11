@@ -16,8 +16,7 @@ sections:
           professional home buyer: I buy houses that meet my purchasing
           criteria. From there I may repair the house and resell it to another
           homeowner or keep it as a rental ourselves.
-      - title: Can you manage our social media?
-        content: >-
+      - content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
           includes both posting relevant and interesting content, and replying

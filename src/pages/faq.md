@@ -51,11 +51,23 @@ sections:
           you… the responsibility is mine and you walk away without the burden
           of the property and its payments… and often with cash in your hand).
         title: 'Q:  Are there any fees or commissions to work with you?'
-      - content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
+      - content: >
+          A: Real estate agents list properties and hope that someone will buy
+          them. The agent shows the properties to prospective buyers if there
+          are any (the average time to sell a property in many markets right now
+          is 6-12 months) and then take a percentage of the sale price if they
+          find a buyer. Oftentimes, the agent’s commission is 3-6% of the sale
+          price of your house (so if it’s a $100,000 house, you’ll pay between
+          $3,000 – $6,000 in commissions to an agent). Agents provide a great
+          service for those that can wait 6-12 months to sell and who don’t mind
+          giving up some of that sale price to pay for the commissions. But
+          that’s where we’re different: We’re not agents, we’re home buyers. Our
+          company actually buys houses. We don’t list houses. Since we’re
+          actually the one buying the house from you, and we pay with all cash…
+          we can make a decision to buy your house within a couple of days
+          (sometimes the same day). Again, we make our living by taking the risk
+          to buy the house with our own cash, repair the house, and market it
+          ourselves to find a buyer (which is the hard part in this market).
         title: 'Q:  How are you different from a real estate agent?'
       - title: Who handles the design?
         content: >-

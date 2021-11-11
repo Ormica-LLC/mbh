@@ -30,11 +30,15 @@ sections:
           have to move forward with the offer we give… but it’s good to know
           what I am offering!)
         title: 'Q:  Do you pay fair prices for properties?'
-      - content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
+      - content: >
+          A:  Great question and I am an open book: My process is very
+          straightforward. I look at the location of the property, what repairs
+          are needed, the current condition of the property, and the values of
+          comparable houses sold in the area recently. As you know, house values
+          have taken a huge hit in the last 5 years and most areas still haven’t
+          seen prices come back up. I take many pieces of information into
+          consideration… and come up with a fair price that works for me and
+          works for you too.
         title: 'Q:  How do you determine the price to offer on my house?'
       - title: What if my business is technical?
         content: >-

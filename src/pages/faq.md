@@ -56,6 +56,7 @@ sections:
           intro video call, an interview, a questionnaire and some back and
           forth communication for technical purposes. After that, we can go as
           fast as you need.
+        title: 'Q:  How are you different from a real estate agent?'
       - title: Who handles the design?
         content: >-
           You can choose to provide the design yourself, or I can include a

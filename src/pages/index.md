@@ -208,7 +208,7 @@ sections:
     background_image: images/MBH 2.0 Site BG (3).png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 88
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme

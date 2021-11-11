@@ -18,7 +18,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
     background_image: >-
       images/Beige and Pink Watercolour Thanksgiving Desktop Wallpaper
       Quotes.png

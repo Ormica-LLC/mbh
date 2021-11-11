@@ -51,8 +51,7 @@ sections:
           you… the responsibility is mine and you walk away without the burden
           of the property and its payments… and often with cash in your hand).
         title: 'Q:  Are there any fees or commissions to work with you?'
-      - title: How fast can we get started?
-        content: >-
+      - content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
           forth communication for technical purposes. After that, we can go as

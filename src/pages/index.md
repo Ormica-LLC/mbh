@@ -167,11 +167,6 @@ sections:
     background_image_opacity: 12
   - type: form_section
     content: >
-      ##
-
-
-
-
       Let's talk
 
 

@@ -25,7 +25,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Trusted by Companies Big and Small
-    subtitle: Where we acquire houses?
+    subtitle: Where I acquire houses?
     align: center
     grid_items:
       - image: images/logo-1.svg

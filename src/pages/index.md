@@ -60,7 +60,7 @@ sections:
     title: My services
     subtitle: How I help people
     features:
-      - title: Content Creation
+      - title: Fast Cash
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from

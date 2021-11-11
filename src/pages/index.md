@@ -167,7 +167,7 @@ sections:
     background_image_opacity: 12
   - type: form_section
     content: >
-      Let's talk
+      #### Let's talk
 
 
       If you would like more information about my services and pricing, please

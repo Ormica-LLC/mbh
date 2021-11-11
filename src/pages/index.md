@@ -206,7 +206,7 @@ sections:
     padding_bottom: medium
     background_color: none
     background_image: images/MBH 2.0 Site BG (3).png
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     background_image_size: contain
     background_image_opacity: 88
 seo:

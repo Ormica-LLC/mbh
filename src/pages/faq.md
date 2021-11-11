@@ -17,10 +17,18 @@ sections:
           criteria. From there I may repair the house and resell it to another
           homeowner or keep it as a rental ourselves.
       - content: >
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+          A:  Many of the houses I purchase are below market value (we do this
+          so we can resell it at a profit to another homeowner). I am looking to
+          get a fair discount on a property. However, in my experience, many
+          sellers aren’t necessarily expecting a large “windfall” on the
+          property but rather appreciate that I can offer cash, I close very
+          quickly (no waiting for financing), and no time or effort, or expense
+          is required on your part of fix up the property or pays agent fees. If
+          that’s what you’re looking for and you see the value in getting your
+          house sold fast… let’s see if I can come to a fair win-win price.
+          (Besides, my no-obligation pricing commitment means that you do not
+          have to move forward with the offer we give… but it’s good to know
+          what I am offering!)
         title: 'Q:  Do you pay fair prices for properties?'
       - title: How do you base your pricing?
         content: >-

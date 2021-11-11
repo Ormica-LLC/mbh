@@ -64,7 +64,8 @@ sections:
         subtitle: Get the cash you need now !
         content: >
           I can buy your house for cold cash. My goal is to help you take the
-          load off your back, provide a solution, and g
+          load off your back and buy your house for the cash you need.
+          Understand my easy process of buying your house. 
         actions:
           - label: See Writing Samples
             url: /faq

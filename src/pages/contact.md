@@ -64,7 +64,7 @@ sections:
     background_image: images/MBH 2.0 Site BG (5).png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 88
 seo:
   title: Contact
   description: This is the contact page

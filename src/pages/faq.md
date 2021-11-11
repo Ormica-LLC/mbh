@@ -11,12 +11,11 @@ sections:
   - type: grid_section
     grid_items:
       - title: What is your process?
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: >
+          A:  Great question. I am not an agent, and I don’t list houses. I am a
+          professional home buyer: I buy houses that meet my purchasing
+          criteria. From there I may repair the house and resell it to another
+          homeowner or keep it as a rental ourselves.
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook

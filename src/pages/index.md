@@ -6,7 +6,8 @@ sections:
     subtitle: >-
       I buy houses in any condition, it doesn't matter if your house is newer,
       or if it's over 100 years old and may need $100,000 in repairs. There are
-      no commission, no fees, or obligation whatsoever... I am here to help!
+      no commission, no fees, or obligation whatsoever. Give me a call, I am
+      here to help!
     actions:
       - label: Call Now 305-300-0496
         url: /contact

@@ -16,11 +16,7 @@ sections:
           professional home buyer: I buy houses that meet my purchasing
           criteria. From there I may repair the house and resell it to another
           homeowner or keep it as a rental ourselves.
-      - content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+      - content: "# **Q: \_Do you pay fair prices for properties?**\n\nOf course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook and any other social media platform you wish to maintain. This includes both posting relevant and interesting content, and replying to questions and comments from your audience.\n"
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work

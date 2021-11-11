@@ -9,22 +9,25 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Pricing
+    content: >
+      ## Contact Me
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
 
-      ### Proposal
+      My team will research the details of your home and start crafting a great
+      solution for you.
 
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
 
-      ### Terms
+      ### Get Your Offer
 
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
+
+      I will present you with a fair cash offer with no obligations and no fees.
+
+
+      ### Get Paid
+
+
+      Get the cash you need now. You don't have to wait 6-12 months to get your
+      house sold.
     content_align: left
     form_position: left
     form_width: fifty

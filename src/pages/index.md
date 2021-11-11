@@ -102,7 +102,7 @@ sections:
           who are having bad tenants. Give me a call, know my easy process to
           help you.
         actions:
-          - label: See Past Work
+          - label: Contact Me
             url: /faq
             style: primary
             has_icon: true

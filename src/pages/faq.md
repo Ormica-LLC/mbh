@@ -40,8 +40,7 @@ sections:
           consideration… and come up with a fair price that works for me and
           works for you too.
         title: 'Q:  How do you determine the price to offer on my house?'
-      - title: What if my business is technical?
-        content: >-
+      - content: >-
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
           offerings, your target audience and your level of technical writing

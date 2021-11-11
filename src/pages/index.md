@@ -170,8 +170,8 @@ sections:
       # **Let's talk**
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      If you would like more information about my services and how I can help
+      you with the house you are selling. 
     content_align: left
     form_position: right
     form_width: fifty

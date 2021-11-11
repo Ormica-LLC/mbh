@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Mia and I buy houses AS-IS at EASE.'
+    title: 'Hi, I’m Mia and I buy HOUSES AS-IS at EASE.'
     subtitle: >-
       I buy houses in any condition, it doesn't matter if your house is newer,
       or if it's over 100 years old and may need $100,000 in repairs. There are

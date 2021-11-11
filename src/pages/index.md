@@ -24,7 +24,7 @@ sections:
       Quotes.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 26
+    background_image_opacity: 77
   - type: grid_section
     title: 'Everywhere Florida, Big or Small'
     subtitle: Where I acquire houses?

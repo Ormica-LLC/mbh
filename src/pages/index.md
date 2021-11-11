@@ -79,10 +79,10 @@ sections:
         media_width: sixty
       - title: Rent Out to Sell
         subtitle: I will buy your house to Rent Out.
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          I can be a landlord for your house and get the money you need in an
+          easy process. As I love helping people get their houses sold in many
+          creative ways. Talk to me and learn more about this easy process.
         actions:
           - label: Learn More
             url: /about

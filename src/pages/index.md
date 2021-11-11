@@ -8,7 +8,7 @@ sections:
       or if it's over 100 years old and may need $100,000 in repairs. There are
       no commission, no fees, or obligation whatsoever. I am her to help!
     actions:
-      - label: Contact Me
+      - label: Call Now 305-300-0496
         url: /contact
         style: primary
     image: images/hero.png

@@ -96,10 +96,11 @@ sections:
         media_width: sixty
       - title: Mia Solutions
         subtitle: Solutions for most houseselling problems
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          I want to help those who are facing foreclosure, bankruptcy, going
+          through a divorce, sudden job transfer, behind payments or even those
+          who are having bad tenants. Give me a call, know my easy process to
+          help you.
         actions:
           - label: See Past Work
             url: /faq

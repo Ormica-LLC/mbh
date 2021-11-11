@@ -67,7 +67,7 @@ sections:
           load off your back and buy your house for the cash you need.
           Understand my easy process of buying your house. 
         actions:
-          - label: See Writing Samples
+          - label: Contact Me
             url: /faq
             style: primary
             has_icon: true

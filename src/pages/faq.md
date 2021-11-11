@@ -40,11 +40,16 @@ sections:
           consideration… and come up with a fair price that works for me and
           works for you too.
         title: 'Q:  How do you determine the price to offer on my house?'
-      - content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+      - content: >
+          A: This is what makes my service stand out from the traditional method
+          of selling your house: There are NO fees or commissions when you sell
+          your house to me. I'll make you an offer, and if it’s a fit then I'll
+          buy your house (and I'll often pay for the closing costs too!). No
+          hassle. No fees. I make my money after I pay for repairs on the house
+          (if any) and sell it for a profit (I am taking the risks here on
+          whether I can sell it for a profit or not, once I buy the house from
+          you… the responsibility is mine and you walk away without the burden
+          of the property and its payments… and often with cash in your hand).
         title: 'Q:  Are there any fees or commissions to work with you?'
       - title: How fast can we get started?
         content: >-

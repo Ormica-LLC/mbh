@@ -69,8 +69,7 @@ sections:
           to buy the house with our own cash, repair the house, and market it
           ourselves to find a buyer (which is the hard part in this market).
         title: 'Q:  How are you different from a real estate agent?'
-      - title: Who handles the design?
-        content: >-
+      - content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
           designers with ample experience in web, digital, campaign and

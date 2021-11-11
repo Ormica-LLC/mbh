@@ -62,10 +62,9 @@ sections:
     features:
       - title: Fast Cash
         subtitle: Get the cash you need now !
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          I can buy your house for cold cash. My goal is to help you take the
+          load off your back, provide a solution, and g
         actions:
           - label: See Writing Samples
             url: /faq

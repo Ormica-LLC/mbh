@@ -85,7 +85,7 @@ sections:
           Let me help you, click the button below and get your FREE house
           calculation.
         actions:
-          - label: Learn More
+          - label: Get FREE Calculation
             url: /contact
             style: secondary
             has_icon: true

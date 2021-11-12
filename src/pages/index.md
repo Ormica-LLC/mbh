@@ -172,7 +172,15 @@ sections:
 
 
       If you would like more information about my services and how I can help
-      you with the house you are selling. 
+      you with the house you are selling.
+
+
+
+
+      EMAIL: **miabuyshousesfast@gmail.com**
+
+
+      CALL: **305-300-0496**
     content_align: left
     form_position: right
     form_width: fifty

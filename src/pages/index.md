@@ -104,7 +104,7 @@ sections:
           help you.
         actions:
           - label: Contact Me
-            url: /faq
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right

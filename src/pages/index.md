@@ -77,7 +77,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Rent Out to Sell
+      - title: Free House
         subtitle: I will buy your house to Rent Out.
         content: >
           I can be a landlord for your house and get the money you need in an

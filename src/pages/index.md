@@ -80,9 +80,10 @@ sections:
       - title: Free House Cost Calculation
         subtitle: Not sure how much your house cost now?
         content: >
-          I can be a landlord for your house and get the money you need in an
-          easy process. As I love helping people get their houses sold in many
-          creative ways. Talk to me and learn more about this easy process.
+          I can help you get rid of the headache of understanding the current
+          cost of your house now and help you sell it with a great price tag.
+          Let me help you, click the button below and get your FREE house
+          calculation.
         actions:
           - label: Learn More
             url: /about

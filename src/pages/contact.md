@@ -58,7 +58,7 @@ sections:
         is_required: true
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Mobile
         default_value: lorem-ipsum
         options: []
         is_required: false

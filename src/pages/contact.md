@@ -46,6 +46,12 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: Mobile
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
       - input_type: textarea
         name: message
         label: Message
@@ -56,12 +62,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: text
-        name: lorem-ipsum
-        label: Mobile
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
     submit_label: Send Message
     align_vert: top
     padding_top: medium

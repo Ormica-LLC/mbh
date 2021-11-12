@@ -77,7 +77,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Free House
+      - title: Free House Cost Calculation
         subtitle: I will buy your house to Rent Out.
         content: >
           I can be a landlord for your house and get the money you need in an

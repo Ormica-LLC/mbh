@@ -81,7 +81,7 @@ sections:
         subtitle: Not sure how much your house cost now?
         content: >
           I can help you get rid of the headache of understanding the current
-          cost of your house now and help you sell it with a great price tag.
+          value of your house now and help you sell it with a great price tag.
           Let me help you, click the button below and get your FREE house
           calculation.
         actions:

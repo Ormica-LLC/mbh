@@ -30,9 +30,7 @@ template: page
 ---
 ![](images/2-6848e71e.png)
 
-###### Our vision is to help you who have problems selling your house. Miabuyshouses.com buys houses in Florida
-
-###### **AS-IS at EASE.**
+# Our vision is to help you who have problems selling your house. Miabuyshouses.com buys houses in Florida AS-IS at EASE.
 
 .
 

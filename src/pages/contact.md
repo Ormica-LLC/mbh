@@ -49,7 +49,7 @@ sections:
       - input_type: number
         name: Mobile
         label: Mobile
-        default_value: lorem-ipsum
+        default_value: Your Contact Number
         options: []
         is_required: false
       - input_type: textarea

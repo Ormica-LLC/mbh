@@ -78,7 +78,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Free House Cost Calculation
-        subtitle: I will buy your house to Rent Out.
+        subtitle: Not sure how much your house cost now?
         content: >
           I can be a landlord for your house and get the money you need in an
           easy process. As I love helping people get their houses sold in many

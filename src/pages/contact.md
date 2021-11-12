@@ -55,7 +55,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: Your message or Property Address
+        default_value: Your message or Property Address for C
       - input_type: checkbox
         name: consent
         label: >-

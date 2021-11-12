@@ -28,6 +28,12 @@ sections:
 
       Get the cash you need now. You don't have to wait 6-12 months to get your
       house sold.
+
+
+      EMAIL: **miabuyshousesfast@gmail.com**
+
+
+      CALL: **305-300-0496**
     content_align: left
     form_position: left
     form_width: fifty

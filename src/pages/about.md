@@ -28,7 +28,13 @@ seo:
       relativeUrl: true
 template: page
 ---
-# ![](images/2-6848e71e.png) Our vision is to help you who have problems selling their houses by giving them an easy solution, we BUY your house fast. Miabuyshouses.com buys houses in Florida AS-IS at EASE. 
+> ![](images/2-6848e71e.png)
+>
+>  Our vision is to help you who have problems selling your house. Miabuyshouses.com buys houses in Florida 
+>
+> **AS-IS at EASE**
+>
+> .
 
 ## “You Need To Sell Your House Fast In Florida!”&#xA;
 
@@ -47,11 +53,11 @@ And as a bonus…
 
 *   you don’t need to clean up and repair the property
 
-*    don’t waste time finding an agent who you trust and who can deliver on their promise of selling your house quickly
+*   don’t waste time finding an agent who you trust and who can deliver on their promise of selling your house quickly
 
-*    you won’t need to sign a contract that binds you to an agent for a certain term
+*   you won’t need to sign a contract that binds you to an agent for a certain term
 
-*    or deal with the paperwork and the waiting and wondering (and hoping)
+*   or deal with the paperwork and the waiting and wondering (and hoping)
 
 **We’ll know very quickly if we can help you**, and unlike selling through an agent, you don’t have to wait to see if the buyer can get financing… **we’re ready to buy right now!**
 

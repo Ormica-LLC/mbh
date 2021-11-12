@@ -28,13 +28,13 @@ seo:
       relativeUrl: true
 template: page
 ---
-> ![](images/2-6848e71e.png)
->
->  Our vision is to help you who have problems selling your house. Miabuyshouses.com buys houses in Florida 
->
-> **AS-IS at EASE**
->
-> .
+![](images/2-6848e71e.png)
+
+# Our vision is to help you who have problems selling your house. Miabuyshouses.com buys houses in Florida
+
+# **AS-IS at EASE.**
+
+.
 
 ## “You Need To Sell Your House Fast In Florida!”&#xA;
 

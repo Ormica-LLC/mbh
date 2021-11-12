@@ -68,7 +68,7 @@ sections:
           Understand my easy process of buying your house. 
         actions:
           - label: Contact Me
-            url: /faq
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right

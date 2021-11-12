@@ -77,7 +77,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Free House Cost Calculation
+      - title: Free House Value Calculation
         subtitle: Not sure how much your house cost now?
         content: >
           I can help you get rid of the headache of understanding the current

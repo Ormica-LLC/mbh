@@ -51,7 +51,7 @@ sections:
         label: Mobile
         default_value: Your Contact Number
         options: []
-        is_required: false
+        is_required: true
       - input_type: textarea
         name: message
         label: Message

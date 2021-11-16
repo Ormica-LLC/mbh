@@ -119,19 +119,7 @@ sections:
   - type: grid_section
     title: How it Works
     subtitle: How MiaBuysHouses.com Work
-    grid_items:
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
-
-
-          **Gordon Norman,** *Web Designer, Local Business*
-        image: images/gordon-norman.png
-        image_position: top
-        image_width: twenty-five
-        title: MiaBuysHouses Way!
-        content_align: left
-        image_align: center
+    grid_items: []
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large

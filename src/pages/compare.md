@@ -9,7 +9,7 @@ template: page
 ---
 ## Selling To MiaBuysHouses.com vs. Listing With A Local Florida Agent
 
-Even in a seller’s market like Florida, it’s smart to look at your options and see what will actually help you best reach your goals with the sale of your house. While you may be able to get a higher “top line” sales price listing with a local agent, that doesn’t always boil down to more money in your pocket or less headache. **Dive into the details below to compare your options. **
+Even in a seller’s market like Florida, it’s smart to look at your options and see what will actually help you best reach your goals with the sale of your house. While you may be able to get a higher “top line” sales price listing with a local agent, that doesn’t always boil down to more money in your pocket or less headache.** Dive into the details below to compare your options. **
 
 **Selling w/ An Agent**
 
@@ -43,7 +43,7 @@ Even in a seller’s market like Florida, it’s smart to look at your options a
 
 *   **Number of Showings**: 1 (Just Us)
 
-*       Closing Date:
+*         Closing Date:
 
 *   **Who Pays For Repairs?:** NONE – We pay for all repairs
 

@@ -23,11 +23,9 @@ template: page
 ---
 **What information do we collect?**
 
-
-
 We collect information from you when you subscribe to our newsletter, fill out a form or submit property information.
 
-We may collect information about your computer, including your IP address, operating system and browser type using Google Analytics, this is to improve browsing for everyone and does not identify any individual. You can learn more about how data is collected with Analytics [here](https://www.google.com/policies/privacy/partners/).
+We may collect information about your computer, including your IP address, operating system and browser type using Google Analytics, this is to improve browsing for everyone and does not identify any individual. You can learn more about how data is collected with Analytics.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. We transfer information about you if MiaBuysHouses.com is acquired by or merged with another company. In this event, MiaBuysHouses.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
@@ -104,7 +102,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us with the information on our [contact page](https://ormicaseller.carrot.com/contact-us/).
+If there are any questions regarding this privacy policy you may contact us with the information on our [contact page](/contact).
 
 MiaBuysHouses.com
 Miami, Florida USA

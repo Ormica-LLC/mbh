@@ -129,6 +129,7 @@ sections:
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
+        title: Mia
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large

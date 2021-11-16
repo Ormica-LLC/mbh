@@ -82,8 +82,8 @@ sections:
         content: >
           I can help you get rid of the headache of understanding the current
           value of your house now and help you sell it with a great price tag.
-          Let me help you, click the button below and get your FREE house
-          calculation.
+          Let me help you, click the button below and will send you the FREE
+          calculation for your house.
         actions:
           - label: Get FREE Calculation
             url: /contact

@@ -180,7 +180,7 @@ sections:
       - input_type: email
         name: email
         label: Phone
-        default_value: Your email address
+        default_value: Your contact number
         is_required: true
       - input_type: textarea
         name: message

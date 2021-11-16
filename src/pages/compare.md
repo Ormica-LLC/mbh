@@ -9,8 +9,43 @@ template: page
 ---
 ## Selling To MiaBuysHouses.com vs. Listing With A Local Florida Agent
 
-Even in a seller’s market like Florida, it’s smart to look at your options and see what will actually help you best reach your goals with the sale of your house. While you may be able to get a higher “top line” sales price listing with a local agent, that doesn’t always boil down to more money in your pocket or less headache. **Dive into the details below to compare your options. ** Selling w/ An AgentSOLD To MiaBuysHouses.com**Commissions / Fees:***6%* on average is paid by you, the sellerNONE**Who Pays Closing Costs?:***2%* on average is paid by you, the sellerNONE – We pay all costs**Inspection & Financing Contingency\*:***Yes*, sales can [fall through](http://www.trulia.com/blog/5-reasons-home-sales-fall-prevent/)NONE**Appraisal Needed:***Yes*, the sale is often subject to appraisalNONE – We make *cash offers***Average Days Until Sold:**+/- 91 DaysIMMEDIATE CASH OFFER**Number of Showings:**It Depends1 (Just Us)**Closing Date:**30-60 +/- days after accepting buyers offerThe Date Of YOUR CHOICE**Who Pays For Repairs?:**Negotiated During Inspection PeriodNONE – We pay for all repairs
+Even in a seller’s market like Florida, it’s smart to look at your options and see what will actually help you best reach your goals with the sale of your house. While you may be able to get a higher “top line” sales price listing with a local agent, that doesn’t always boil down to more money in your pocket or less headache. **Dive into the details below to compare your options. **
 
+**Selling w/ An Agent**
+
+*   **Commissions / Fees: ***6%* on average is paid by you, the seller
+
+*   **Who Pays Closing Costs?: ***2%* on average is paid by you, the seller
+
+*   **Inspection & Financing Contingency\*:  ***Yes*, sales can fall through
+
+*   **Appraisal Needed: ***Yes*, the sale is often subject to appraisal
+
+*   **Average Days Until Sold: **+/- 91 Days
+
+*   **Number of Showings: **It Depends
+
+*   **Closing Date: **30-60 +/- days after accepting buyers offer
+
+*   **Who Pays For Repairs?: **Negotiated During Inspection Period
+
+**SOLD To MiaBuysHouses.com**
+
+*   **Commissions / Fees: **NONE
+
+*   **Who Pays Closing Costs?: **NONE – We pay all costs
+
+*   **Inspection & Financing Contingency\*: **NONE
+
+*   **Appraisal Needed: **NONE – We make cash offers
+
+*   **Average Days Until Sold: **IMMEDIATE CASH OFFER
+
+*   **Number of Showings: **1 (Just Us)
+
+*       Closing Date: 
+
+*   **Who Pays For Repairs?: **NONE – We pay for all repairs
 
 
 ## Work The Numbers And See Which Way Helps You Get There…
@@ -27,7 +62,7 @@ You can get rid of the headache of that property fast and **avoid paying any mo
 
 ### **Don’t worry about fixing anything up** or cleaning your house again and again for buyer after buyer
 
-We don’t care how dirty your house is (*we’ve seen worse!)* or how many repairs are needed *(a complete fixer? great! we love projects).*.. [**we’d like to make an offer on your house.**](https://ormicaseller.carrot.com/sell-your-house/) This saves you time and money that you can keep in your pocket.
+We don’t care how dirty your house is (*we’ve seen worse!)* or how many repairs are needed *(a complete fixer? great! we love projects).*.. **we’d like to make an offer on your house.** This saves you time and money that you can keep in your pocket.
 
 ### **Don’t worry about paying those pesky closing fees** (we’ve got you covered)
 
@@ -39,4 +74,4 @@ Is it for you?
 
 #### See for yourself and get a **fair all-cash offer** on your house **today**.
 
-**Just fill out the short form below or give us a call at **[**305-300-0496**](tel:305-300-0496) and let’s chat! [Our process](https://ormicaseller.carrot.com/how-we-buy-houses/) is **simple** and you can **close on the date of your choice.** You have nothing to lose by getting an offer (no obligations – no pressure). But you could potentially lose thousands of dollars or months of your time by not testing us out and **requesting your FREE house offer**
+\*\*Just fill out the short form below or give us a call at \*\*[**305-300-0496** ](/contact)and let’s chat! Our process is **simple** and you can **close on the date of your choice.** You have nothing to lose by getting an offer (no obligations – no pressure). But you could potentially lose thousands of dollars or months of your time by not testing us out and **requesting your FREE house offer.**

@@ -130,7 +130,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: MiaBuysHouses Way!
-        content_align: center
+        content_align: left
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large

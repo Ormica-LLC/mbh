@@ -116,20 +116,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - type: grid_section
-    title: How it Works
-    subtitle: How MiaBuysHouses.com Work
-    grid_items: []
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
-    background_image: images/watercolor.png
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 12
-    enable_cards: false
   - title: How it Works
     subtitle: MiaBuysHouses.com
     features:

@@ -120,12 +120,8 @@ sections:
     title: How it Works
     subtitle: How MiaBuysHouses.com Work
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
-
-
-          **Hanson Deck,** *App Developer, Studio*
+      - content: |
+          **
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five

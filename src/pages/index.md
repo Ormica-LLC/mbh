@@ -127,7 +127,7 @@ sections:
           fast*. **MiaBuysHouses.com** is an investor and problem solver who can
           buy your house fast with a fair all-cash offer.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt: 8 Benefits Working with US
         media_position: left
         media_width: fifty
         align: left

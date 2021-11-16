@@ -130,7 +130,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
     enable_cards: false
-  - title: lorem-ipsum
+  - title: How Mi
     subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum

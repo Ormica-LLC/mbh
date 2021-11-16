@@ -162,6 +162,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
+    enable_cards: true
   - type: form_section
     content: >
       # **Let's talk**

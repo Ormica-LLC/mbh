@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Terms of Use
 seo:
   title: Terms and Conditions
   description: This is the terms and conditions page

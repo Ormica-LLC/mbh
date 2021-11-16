@@ -135,17 +135,11 @@ sections:
     features:
       - title: The MiaBuysHouses Way!
         subtitle: How we help people?
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          **MiaBuysHouses.com** is a real estate solutions and investment firm
+          that specializes in helping homeowners get rid of burdensome **houses
+          fast**. **MiaBuysHouses.com** is an investor and problem solver who
+          can buy your house fast with a fair all-cash offer.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-

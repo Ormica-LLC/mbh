@@ -179,7 +179,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Email
+        label: Phone
         default_value: Your email address
         is_required: true
       - input_type: textarea

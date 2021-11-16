@@ -131,7 +131,7 @@ sections:
     background_image_opacity: 12
     enable_cards: false
   - title: How it Works
-    subtitle: lorem-ipsum
+    subtitle: MiaBuysHouses.com
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum

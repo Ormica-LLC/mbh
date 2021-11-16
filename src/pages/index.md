@@ -133,7 +133,7 @@ sections:
   - title: How it Works
     subtitle: MiaBuysHouses.com
     features:
-      - title: 'The Mia '
+      - title: The MiaBuysHouses Way!
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum

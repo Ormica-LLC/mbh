@@ -133,6 +133,7 @@ sections:
         align: left
         video_embed_html: >-
           https://drive.google.com/file/d/1oCQAxDD-r8qEeQ3OWs6sP9Rc90ZnPi1-/view?usp=sharing
+        image: images/MBH 2.0 Site Video Stamp.png
     feature_padding_vert: medium
     align: center
     padding_top: medium

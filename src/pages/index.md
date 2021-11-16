@@ -116,7 +116,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-  - title: How it Works
+  - title: Why work with us?
     subtitle: MiaBuysHouses.com
     features:
       - title: The MiaBuysHouses Way!

@@ -7,7 +7,7 @@ sections:
       Thank you for contacting me. I will get back in touch with you soon. Have
       a great day!
     actions:
-      - label: Back to homepag
+      - label: Back to homepage
         url: /
         style: primary
         has_icon: true

@@ -137,9 +137,9 @@ sections:
         subtitle: How we help people?
         content: >
           **MiaBuysHouses.com** is a real estate solutions and investment firm
-          that specializes in helping homeowners get rid of burdensome **houses
-          fast**. **MiaBuysHouses.com** is an investor and problem solver who
-          can buy your house fast with a fair all-cash offer.
+          that specializes in helping homeowners get rid of burdensome *houses
+          fast*. **MiaBuysHouses.com** is an investor and problem solver who can
+          buy your house fast with a fair all-cash offer.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-

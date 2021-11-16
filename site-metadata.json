@@ -54,7 +54,7 @@
         "secondary_nav_links": [
             {
                 "label": "Compare",
-                "url": "/style-guide",
+                "url": "/compare",
                 "style": "link"
             },
             {

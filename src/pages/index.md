@@ -132,6 +132,12 @@ sections:
         media_width: fifty
         align: left
         image: images/MBH 2.0 Site Video Stamp.png
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/53Z_J7STa2M" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
     feature_padding_vert: medium
     align: center
     padding_top: medium

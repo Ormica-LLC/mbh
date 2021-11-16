@@ -134,7 +134,7 @@ sections:
     subtitle: MiaBuysHouses.com
     features:
       - title: The MiaBuysHouses Way!
-        subtitle: How we help
+        subtitle: How we help people
         content: >-
           ## Lorem ipsum
 

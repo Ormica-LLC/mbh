@@ -127,7 +127,7 @@ sections:
 
           **Gordon Norman,** *Web Designer, Local Business*
         image: images/gordon-norman.png
-        image_position: left
+        image_position: top
         image_width: twenty-five
         title: MiaBuysHouses Way!
         content_align: left

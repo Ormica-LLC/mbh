@@ -120,11 +120,6 @@ sections:
     title: How it Works
     subtitle: How MiaBuysHouses.com Work
     grid_items:
-      - content: |
-          **
-        image: images/hanson-deck.png
-        image_position: left
-        image_width: twenty-five
       - content: >-
           Alyvia really understands who our customers are and what tone of voice
           to use when communicating with them.

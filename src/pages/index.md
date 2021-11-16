@@ -148,6 +148,7 @@ sections:
         media_position: left
         media_width: fifty
         align: left
+        image: images/SELLER LEADS Ad.png
     feature_padding_vert: medium
     align: center
     padding_top: medium

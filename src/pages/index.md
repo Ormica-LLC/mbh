@@ -121,15 +121,6 @@ sections:
     subtitle: How MiaBuysHouses.com Work
     grid_items:
       - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
           I love it when a content writer can really wordsmith and create copy
           that suits the design intention and style!
 

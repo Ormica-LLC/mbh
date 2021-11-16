@@ -117,7 +117,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: How it Works
     subtitle: How MiaBuysHouses.com Work
     grid_items:
       - content: >-

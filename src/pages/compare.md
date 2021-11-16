@@ -45,7 +45,7 @@ Even in a seller’s market like Florida, it’s smart to look at your options a
 
 *   **Number of Showings**: 1 (Just Us)
 
-*           Closing Date:
+*       Closing Date:
 
 *   **Who Pays For Repairs?:** NONE – We pay for all repairs
 

@@ -9,44 +9,43 @@ template: page
 ---
 ## Selling To MiaBuysHouses.com vs. Listing With A Local Florida Agent
 
-Even in a seller’s market like Florida, it’s smart to look at your options and see what will actually help you best reach your goals with the sale of your house. While you may be able to get a higher “top line” sales price listing with a local agent, that doesn’t always boil down to more money in your pocket or less headache. **Dive into the details below to compare your options. **
+Even in a seller’s market like Florida, it’s smart to look at your options and see what will actually help you best reach your goals with the sale of your house. While you may be able to get a higher “top line” sales price listing with a local agent, that doesn’t always boil down to more money in your pocket or less headache. \*\*Dive into the details below to compare your options. \*\*
 
 **Selling w/ An Agent**
 
-*   **Commissions / Fees: ***6%* on average is paid by you, the seller
+*   \*\*Commissions / Fees: \*\**6%* on average is paid by you, the seller
 
-*   **Who Pays Closing Costs?: ***2%* on average is paid by you, the seller
+*   \*\*Who Pays Closing Costs?: \*\**2%* on average is paid by you, the seller
 
-*   **Inspection & Financing Contingency\*:  ***Yes*, sales can fall through
+*   \*\*Inspection & Financing Contingency\*:  \*\**Yes*, sales can fall through
 
-*   **Appraisal Needed: ***Yes*, the sale is often subject to appraisal
+*   \*\*Appraisal Needed: \*\**Yes*, the sale is often subject to appraisal
 
-*   **Average Days Until Sold: **+/- 91 Days
+*   \*\*Average Days Until Sold: \*\*+/- 91 Days
 
-*   **Number of Showings: **It Depends
+*   \*\*Number of Showings: \*\*It Depends
 
-*   **Closing Date: **30-60 +/- days after accepting buyers offer
+*   \*\*Closing Date: \*\*30-60 +/- days after accepting buyers offer
 
-*   **Who Pays For Repairs?: **Negotiated During Inspection Period
+*   \*\*Who Pays For Repairs?: \*\*Negotiated During Inspection Period
 
 **SOLD To MiaBuysHouses.com**
 
-*   **Commissions / Fees: **NONE
+*   \*\***Commissions / Fees:** \*\*NONE
 
-*   **Who Pays Closing Costs?: **NONE – We pay all costs
+*   \*\***Who Pays Closing Costs?: **\*\*NONE – We pay all costs
 
-*   **Inspection & Financing Contingency\*: **NONE
+*   \*\***Inspection & Financing Contingency**\*: \*\*NONE
 
-*   **Appraisal Needed: **NONE – We make cash offers
+*   \*\***Appraisal Needed:** \*\*NONE – We make cash offers
 
-*   **Average Days Until Sold: **IMMEDIATE CASH OFFER
+*   **\*\*Average Days Until Sold**: \*\*IMMEDIATE CASH OFFER
 
-*   **Number of Showings: **1 (Just Us)
+*   **\*\*Number of Showings: \*\***1 (Just Us)
 
-*       Closing Date: 
+*       Closing Date:
 
-*   **Who Pays For Repairs?: **NONE – We pay for all repairs
-
+*   \*\*Who Pays For Repairs?: \*\*NONE – We pay for all repairs
 
 ## Work The Numbers And See Which Way Helps You Get There…
 

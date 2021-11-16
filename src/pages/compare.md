@@ -45,9 +45,11 @@ Even in a seller’s market like Florida, it’s smart to look at your options a
 
 *   **Number of Showings**: 1 (Just Us)
 
-*       Closing Date:
+*   **Closing Date:** The date of your choice
 
 *   **Who Pays For Repairs?:** NONE – We pay for all repairs
+
+
 
 ## Work The Numbers And See Which Way Helps You Get There…
 
@@ -75,4 +77,4 @@ Is it for you?
 
 #### See for yourself and get a **fair all-cash offer** on your house **today**.
 
-\*\*Just fill out the short form below or give us a call at \*\*[**305-300-0496** ](/contact)and let’s chat! Our process is **simple** and you can **close on the date of your choice.** You have nothing to lose by getting an offer (no obligations – no pressure). But you could potentially lose thousands of dollars or months of your time by not testing us out and **requesting your FREE house offer.**
+\*\*Just give us a call at \*\*[**305-300-0496** ](/contact)and let’s chat! Our process is **simple** and you can **close on the date of your choice.** You have nothing to lose by getting an offer (no obligations – no pressure). But you could potentially lose thousands of dollars or months of your time by not testing us out and **requesting your FREE house offer.**

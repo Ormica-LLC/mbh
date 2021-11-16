@@ -177,7 +177,7 @@ sections:
         label: Name
         default_value: Your name
         is_required: true
-      - input_type: email
+      - input_type: number
         name: email
         label: Phone
         default_value: Your contact number

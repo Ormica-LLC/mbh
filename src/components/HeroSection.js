@@ -7,7 +7,6 @@ import SectionActions from './SectionActions';
 export default class HeroSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
-        let tel = _.get(default, `${<a href="tel:305-300-0496">}, null);
         let padding_top = _.get(section, 'padding_top', null) || 'medium';
         let padding_bottom = _.get(section, 'padding_bottom', null) || 'medium';
         let align_x = _.get(section, 'align', null) || 'center';
@@ -70,7 +69,7 @@ export default class HeroSection extends React.Component {
                 				)}
                 				{_.get(section, 'actions', null) && (
                 				<div className={classNames('hero__actions', 'btn-group', {'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
-                					<SectionActions {...this.props} actions={_.get(tel, 'actions', null)} />
+                					<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
                 				</div>
                 				)}
                 			</div>
@@ -82,3 +81,6 @@ export default class HeroSection extends React.Component {
         );
     }
 }
+
+>
+                					

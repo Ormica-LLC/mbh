@@ -11,6 +11,7 @@ sections:
     actions:
       - label: Call Now 305-300-0496
         style: primary
+        a: { text-decoration: none; }
         a:link { text-decoration: none; }
         a:visited { text-decoration: none; }
         a:hover { text-decoration: none; }

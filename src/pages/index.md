@@ -218,7 +218,10 @@ seo:
       value: 'MIABuysHouses | Everywhere in Florida, Big or Small!'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Need To Sell Your House Quickly? We Buy Houses! MIABuysHouses makes it
+        easy. Serving the entire SoFlo region. We take care of each step. Call
+        Us! 305-300-0496. 
       keyName: property
     - name: 'og:image'
       value: images/MiaLogo-HPalm_FBProfPic-e438be49.png

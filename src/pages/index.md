@@ -12,14 +12,6 @@ sections:
       - label: Call Now 305-300-0496
         url: '/<a href="tel:5554280940">Call us at 555-428-0940</a>'
         style: primary
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
     image: images/MBH 2.0 Site (5).png
     image_alt: A smiling woman
     media_position: right

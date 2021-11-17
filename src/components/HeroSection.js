@@ -81,6 +81,3 @@ export default class HeroSection extends React.Component {
         );
     }
 }
-
->
-                					

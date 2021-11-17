@@ -10,7 +10,7 @@ sections:
       here to help!
     actions:
       - label: Call Now 305-300-0496
-        url: /contact
+        url: '<a href="tel:5554280940">Call us at 555-428-0940</a>'
         style: primary
       - label: lorem-ipsum
         url: '#'

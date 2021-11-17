@@ -231,8 +231,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: 'MIABuysHouses | Everywhere in Florida, Big or Small!'
-    - name: 'twitter:description'
-      value: The preview of the Personal theme
     - name: 'twitter:image'
       value: images/MiaLogo-HPalm_FBProfPic-553fe057.png
       relativeUrl: true

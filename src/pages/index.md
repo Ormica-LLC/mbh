@@ -96,7 +96,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Mia Solutions
-        subtitle: Solutions for most house selling problems
+        subtitle: Solutions for any house selling problems
         content: >
           I want to help those who are facing foreclosure, bankruptcy, going
           through a divorce, sudden job transfer, behind payments or even those

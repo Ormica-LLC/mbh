@@ -21,4 +21,3 @@ seo:
       value: This is the terms and conditions page
 template: page
 ---
-dfldfkdjfjf

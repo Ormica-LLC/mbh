@@ -80,10 +80,10 @@ sections:
       - title: Free House Inspection Checklist
         subtitle: Fix it up? or Give it up?
         content: >
-          I can help you get rid of the headache of understanding the current
-          value of your house now and have a great price tag for your house. Let
-          me help you, click the button below, and get your FREE house
-          calculation.
+          I can help you get rid of the headache of deciding whether to do home
+          repairs or sell your house instead. Let me help you, click the button
+          below, fill out the form, and will send you the FREE inspection
+          checklist.
         actions:
           - label: Get FREE Calculation
             url: /contact

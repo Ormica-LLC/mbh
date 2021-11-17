@@ -234,7 +234,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: images/MiaLogo-HPalm_FBProfPic-553fe057.png
       relativeUrl: true
   description: >-
     Need To Sell Your House Quickly? We Buy Houses! MIABuysHouses makes it easy.

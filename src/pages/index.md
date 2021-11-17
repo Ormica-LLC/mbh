@@ -9,7 +9,7 @@ sections:
       no commission, no fees, or obligation whatsoever. Give me a call, I am
       here to help!
     actions:
-      - label: <Call Now 305-300-0496
+      - label: <a refCall Now 305-300-0496
         url: /contact
         style: primary
     image: images/MBH 2.0 Site (5).png

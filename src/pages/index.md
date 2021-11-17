@@ -30,7 +30,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 77
   - type: grid_section
-    title: 'Everywhere Florida, Big or Small'
+    title: 'Everywhere in Florida, Big or Small'
     subtitle: Where I acquire houses?
     align: center
     grid_items:

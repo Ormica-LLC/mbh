@@ -233,5 +233,8 @@ seo:
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
+  description: >-
+    Need To Sell Your House Fast? We Buy Houses! Call Us! 305-300-0496. Call Us!
+    305-300-0496.
 template: advanced
 ---

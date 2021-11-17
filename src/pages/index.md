@@ -234,9 +234,8 @@ seo:
       value: images/personal-preview.png
       relativeUrl: true
   description: >-
-    Need To Sell Your House Fast? We Buy Houses! Call Us! 305-300-0496. Are you
-    looking to Sell your House in Florida? MIABuysHouses makes it Easy, We will
-    take care of Everything ☺ Contact us and we will guide you in the best way
-    possible!
+    Need To Sell Your House Quickly? We Buy Houses! MIABuysHouses makes it easy.
+    Serving the entire SoFlo region. We take care of each step. Call Us!
+    305-300-0496. 
 template: advanced
 ---

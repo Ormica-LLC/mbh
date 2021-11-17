@@ -11,7 +11,10 @@ sections:
     actions:
       - label: Call Now 305-300-0496
         style: primary
-        text_decoration: underline
+        a:link { text-decoration: none; }
+        a:visited { text-decoration: none; }
+        a:hover { text-decoration: none; }
+        a:active { text-decoration: none; }
     image: images/MBH 2.0 Site (5).png
     image_alt: A smiling woman
     media_position: right

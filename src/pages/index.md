@@ -31,7 +31,7 @@ sections:
     background_image_opacity: 77
   - type: grid_section
     title: 'Everywhere in Florida, Big or Small'
-    subtitle: Where I acquire houses?
+    subtitle: Where do I acquire houses?
     align: center
     grid_items:
       - image: images/4-edd89cd0.png

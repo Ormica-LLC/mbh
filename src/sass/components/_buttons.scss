@@ -19,6 +19,7 @@
 	text-decoration: none;
 	transition: .25s ease;
 	white-space: nowrap;
+	
 
 	&:hover,
 	&:focus,
@@ -26,6 +27,7 @@
 		opacity: .85;
 		outline: 0;
 	}
+	text-decoration: none;
 
 	.icon + :not(.sr-only) {
 		margin-left: 5px;
@@ -34,12 +36,14 @@
 			margin-left: 0;
 			margin-right: 5px;
 		}
+		text-decoration: none;
 	}
 }
 
 .btn--secondary {
 	background-color: $color-btn-alt-bg;
 	color: $color-btn-alt-text;
+	text-decoration: none;
 }
 
 #site-wrap {
@@ -50,6 +54,7 @@
 		color: inherit;
 		min-width: 0;
 		padding: 0;
+		text-decoration: none;
 	}
 }
 
@@ -60,20 +65,23 @@
 	padding: 0;
 	position: relative;
 	width: 1.66667em;
+	text-decoration: none;
 }
 
 .btn-group {
 	align-items: center;
 	display: flex;
 	flex-wrap: wrap;
-
+	text-decoration: none;
 	a:not(.btn) {
 		font-size: 0.88889em;
+		text-decoration: none;
 	}
 
 	a,
 	.btn {
 		margin: 0 1em 1em 0;
+		text-decoration: none;
 	}
 
 	&.justify-center {
@@ -81,6 +89,7 @@
 		.btn {
 			margin-left: 0.5em;
 			margin-right: 0.5em;
+			text-decoration: none;
 		}
 	}
 
@@ -89,6 +98,7 @@
 		.btn {
 			margin-left: 1em;
 			margin-right: 0;
+			text-decoration: none;
 		}
 	}
 
@@ -96,6 +106,7 @@
 		.btn {
 			max-width: 22.5em;
 			width: 100%;
+			text-decoration: none;
 		}
 	}
 }
@@ -103,12 +114,14 @@
 .style-classic {
 	.btn {
 		border-radius: 1.875em;
+		text-decoration: none;
 	}
 }
 
 .style-minimal {
 	.btn {
 		border-radius: 2px;
+		text-decoration: none;
 	}
 }
 
@@ -127,6 +140,7 @@
 			box-shadow: 0 0 0 0 $color-bold-btn-shadow;
 			-webkit-transform: translate(0.375em,0.375em);
 			transform: translate(0.375em,0.375em);
+			text-decoration: none;
 		}
 	}
 }
@@ -134,6 +148,7 @@
 .palette-gray {
 	.btn--secondary {
 		background-color: $color-gray-btn-alt-bg;
+		text-decoration: none;
 	}
 }
 
@@ -147,6 +162,7 @@
 			&.palette-#{$color-suffix} {
 				.btn--primary {
 					background-color: $value;
+					text-decoration: none;
 				}
 			}
 		}

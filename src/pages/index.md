@@ -235,6 +235,7 @@ seo:
       relativeUrl: true
   description: >-
     Need To Sell Your House Fast? We Buy Houses! Call Us! 305-300-0496. Call Us!
-    305-300-0496.
+    305-300-0496. Need To Sell Your House Fast? We Buy Houses! Call Us!
+    305-300-0496. Call Us! 305-300-0496.
 template: advanced
 ---

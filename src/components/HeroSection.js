@@ -67,9 +67,8 @@ export default class HeroSection extends React.Component {
                 					{markdownify(_.get(section, 'content', null))}
                 				</div>
                 				)}
-                				{_.get(section, 'actions', null) && (
-                				<div className={classNames('hero__actions', 'btn-group', {'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
-                					<SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
+                				<div className={classNames('btn-group', {'justify-center': align_x === 'center', 'justify-end': align_x === 'right'})}>
+                                    <a href='tel:305-300-0496' target='_blank' rel='noopener noreferrer'>'Call Now 305-300-0496'</a>
                 				</div>
                 				)}
                 			</div>

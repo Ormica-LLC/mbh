@@ -78,7 +78,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Free House Inspection Checklist
-        subtitle: Not sure how much your house cost now?
+        subtitle: Fix it up? or Give it up?
         content: >
           I can help you get rid of the headache of understanding the current
           value of your house now and have a great price tag for your house. Let

@@ -210,7 +210,6 @@ sections:
     background_image_opacity: 88
 seo:
   title: MiaBuysHouses.com
-  description: The preview of the Personal theme
   extra:
     - name: 'og:type'
       value: website

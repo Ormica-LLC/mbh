@@ -215,7 +215,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: 'MIABuysHouses | Everywhere in Florida, Big or Small!'
       keyName: property
     - name: 'og:description'
       value: The preview of the Personal theme

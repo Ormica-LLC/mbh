@@ -77,7 +77,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Free House Inspection Checklist
+      - title: FREE House Inspection Checklist
         subtitle: Fix it up? or Give it up?
         content: >
           I can help you get rid of the headache of deciding whether to do home

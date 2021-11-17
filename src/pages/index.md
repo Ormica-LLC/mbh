@@ -100,8 +100,8 @@ sections:
         content: >
           I want to help those who are facing foreclosure, bankruptcy, going
           through a divorce, sudden job loss or transfer; behind on payments and
-          even those with bad tenants. Give me a call and get to know my easy
-          process to help you.
+          even those with bad tenants. Give me a call and Get to know my AS-IS
+          at EASE process to help you.
         actions:
           - label: Contact Me
             url: /contact

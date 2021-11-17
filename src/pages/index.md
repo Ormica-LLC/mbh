@@ -209,7 +209,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 88
 seo:
-  title: 'MiaBuysHouses.com | Everywhere in Florida, Big or Small!'
+  title: 'MIABuysHouses | Everywhere in Florida, Big or Small!'
   extra:
     - name: 'og:type'
       value: website

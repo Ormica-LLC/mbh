@@ -133,7 +133,7 @@ sections:
         image_alt: Need to sell your house?
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/JMvPLtgf8bM" title="YouTube video

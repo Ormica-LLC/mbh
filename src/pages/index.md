@@ -234,6 +234,13 @@ seo:
     - name: 'twitter:image'
       value: images/MiaLogo-HPalm_FBProfPic-553fe057.png
       relativeUrl: true
+    - name: 'twitter:description'
+      value: >-
+        Need To Sell Your House Quickly? We Buy Houses! MIABuysHouses makes it
+        easy. Serving the entire SoFlo region. We take care of each step. Call
+        Us! 305-300-0496. 
+      keyName: name
+      relativeUrl: false
   description: >-
     Need To Sell Your House Quickly? We Buy Houses! MIABuysHouses makes it easy.
     Serving the entire SoFlo region. We take care of each step. Call Us!

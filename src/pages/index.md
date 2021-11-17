@@ -123,7 +123,7 @@ sections:
     subtitle: MiaBuysHouses.com
     features:
       - title: The MiaBuysHouses Way!
-        subtitle: How we help people?
+        subtitle: Buying Houses AS-IS at EASE.
         content: >
           **MiaBuysHouses.com** is a real estate solutions and investment firm
           that specializes in helping homeowners get rid of burdensome *houses

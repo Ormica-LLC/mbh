@@ -131,7 +131,7 @@ sections:
           buy your house fast with a fair all-cash offer.
         actions: []
         image_alt: Need to sell your house?
-        media_position: left
+        media_position: top
         media_width: fifty
         align: left
         video_embed_html: >-

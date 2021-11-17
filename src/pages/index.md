@@ -99,9 +99,9 @@ sections:
         subtitle: Solutions for any house selling problems
         content: >
           I want to help those who are facing foreclosure, bankruptcy, going
-          through a divorce, sudden job loss or transfer; behind on payments or
-          even those who are having bad tenants. Give me a call, know my easy
-          process to help you.
+          through a divorce, sudden job loss or transfer; behind on payments and
+          even those with bad tenants. Give me a call, know my easy process to
+          help you.
         actions:
           - label: Contact Me
             url: /contact

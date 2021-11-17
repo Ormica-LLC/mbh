@@ -85,7 +85,7 @@ sections:
           below, fill out the form, and will send you the FREE inspection
           checklist.
         actions:
-          - label: Get FREE Calculation
+          - label: Get FREE Checklist
             url: /contact
             style: secondary
             has_icon: true

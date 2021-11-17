@@ -134,7 +134,6 @@ sections:
         media_position: left
         media_width: fifty
         align: left
-        image: images/MBH 2.0 Site Video Stamp.png
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/JMvPLtgf8bM" title="YouTube video

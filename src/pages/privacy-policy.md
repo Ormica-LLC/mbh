@@ -23,13 +23,11 @@ template: page
 ---
 **What information do we collect?**
 
-
-
 We collect information from you when you subscribe to our newsletter, fill out a form or submit property information.
 
 We may collect information about your computer, including your IP address, operating system and browser type using Google Analytics, this is to improve browsing for everyone and does not identify any individual. You can learn more about how data is collected with Analytics.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. We transfer information about you if MiaBuysHouses.com is acquired by or merged with another company. In this event, MiaBuysHouses.com will notify you before information about you is transferred and becomes subject to a different privacy policy.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. We transfer information about you if [MiaBuysHouses](/) is acquired by or merged with another company. In this event, [MiaBuysHouses](/) will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 **What do we use your information for?**
 
@@ -56,6 +54,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Third Party Services**
+
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
 However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies with respect to the information we are required to provide to them for your purchase-related transactions.
@@ -66,7 +65,7 @@ In particular, remember that certain providers may be located in or have facilit
 
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this [Privacy Policy](/privacy-policy) or our website’s [Terms & Conditions](/terms-conditions).
 
 **Remarketing**
 
@@ -78,9 +77,9 @@ In addition to using cookies and related technologies as described above, we als
 
 For example, we may use Google’s “remarketing” service to target our ads to you based on your prior use of the Site when you visit on other sites in Google’s content network.
 
-**This website may use Google AdWords**
+**This website may use Google AdWords**
 
-This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the MiaBuysHouses.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.”
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the [MiaBuysHouses](/) website. Of course, any data collected will be used in accordance with our own [privacy policy](/privacy-policy) and Google’s privacy policy.”
 
 **California Online Privacy Protection Act Compliance**
 
